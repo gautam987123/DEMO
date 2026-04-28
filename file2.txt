@@ -1,0 +1,2 @@
+this is file2 content
+public statifc void main(String args[])
